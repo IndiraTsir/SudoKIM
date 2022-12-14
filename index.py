@@ -1,4 +1,5 @@
 import numpy
+import random
 from Sudoku import Sudoku
 
 
